@@ -1,6 +1,6 @@
-# A Simple Digital Poem
+# only in a dream
 
-A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+a remix of We Walk to You
 
 ## Made on [Glitch](https://glitch.com/)
 
